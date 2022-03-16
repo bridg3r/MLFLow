@@ -2,7 +2,7 @@ name: reveal-pdf
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - 'index.html'
 
