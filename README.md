@@ -179,8 +179,6 @@ Example flavors:
 
 MLflow Projects are a standard format for packaging reusable data science code. 
 
-Each project is simply a directory with code or a Git repository, and uses a descriptor file or simply convention to specify its dependencies and how to run the code. For example, projects can contain a conda.yaml file for specifying a Python Conda environment. 
-
 When you use the MLflow Tracking API in a Project, MLflow automatically remembers the project version (for example, Git commit) and any parameters. You can easily run existing MLflow Projects from GitHub or your own Git repository, and chain them into multi-step workflows.
 
 An MLflow project is a way to organize and package your machine learning code, dependencies, and parameters in a reproducible manner. It provides a standardized format for defining and running your machine learning experiments, making it easier to reproduce and share your work.
