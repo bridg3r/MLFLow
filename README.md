@@ -1,16 +1,4 @@
----
-title: "MLflow"
-author: "Brigham Davis, Bridger Hackworth, LaRena Allen"
-output: 
-  html_document:
-    theme: sandstone
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-# {.tabset .tabset-pills}
 
 ## Why MLflow:
 
